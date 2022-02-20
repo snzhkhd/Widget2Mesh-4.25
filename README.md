@@ -1,9 +1,15 @@
 # Widget2Mesh-4.25
 
-Widgets on curved 3D surfaces or crazier things.
+- Widgets on curved 3D surfaces or crazier things.
 
-Original preview video : https://youtu.be/_T0I1eMeE6U
+- Original preview video : https://youtu.be/_T0I1eMeE6U
 
+- Original plugin 4.26 version https://github.com/oivio/MeshWidgets
+
+Requirements:
+
+- UE 4.25
+- UV hit testing project setting (Physics > Optimization > Support UV From Hit Results) ticked
 
 Includes:
 
